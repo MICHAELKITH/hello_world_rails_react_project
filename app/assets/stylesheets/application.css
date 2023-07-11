@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+h1 {
+  text-align: center;
+}
+
+.red {
+  color: rgb(224, 200, 200);
+}
+
+.blue {
+  color: rgb(114, 114, 216);
+}
+
+.green {
+  color: rgb(102, 120, 124);
+}
